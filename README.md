@@ -7,7 +7,7 @@
 ## 联系方式
 
 - Telegram: [https://t.me/dewu_api_offer](https://t.me/dewu_api_offer)
-- 得物接口出租，请联系：v: jxl_666_666
+- 得物接口出租
 
 ## 功能特点
 
